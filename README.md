@@ -24,3 +24,6 @@ This project contains:
     
     
     
+#### Note
+
+This project is designed for research purposes in separating voices and improving the quality of voices after separation
